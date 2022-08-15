@@ -33,4 +33,4 @@ sudo modprobe 8188eu
 
 ifconfig wlan0 down
 iwconfig wlan0 mode monitor
-ifconfig wlan up
+ifconfig wlan0 up
